@@ -20,3 +20,7 @@
 * THEN they fall in sequential order
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
+
+### screenshot images
+![Screenshot](./assets/images/screen-shot1.png)
+![Screenshot](./assets/images/screen-shot2.png)
